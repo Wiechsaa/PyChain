@@ -1,5 +1,7 @@
 # PyChain
 I hate blockchain, so I made one. <br />
+This blockchain functions as an API, you can freely use and follow it when writing your Blockchain Crypto NFT WEB3 Startup
+<hr />
 
 - The number of transactions that can be performed per second is much lower compared to, for example, PayPal type systems.
 - The block size is small and this results in a small number of accepted operations. There have been many ideas how to improve the system in this matter but then you would have to make changes in the algorithms managing the chain. This in turn could overload and expose the entire system to attacks.
